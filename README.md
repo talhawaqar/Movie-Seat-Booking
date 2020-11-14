@@ -10,6 +10,9 @@ This web app is for reserving seat for a movie. It is only frontend and it uses 
 - CSS
 - Javascript
 
+## Screenshot
+Project Design Screenshot : ![Project Design](images/screenshot.png)
+
 ## Live Demo
 
 [Live Demo Link](https://talhawaqar.github.io/Movie-Seat-Booking/)
