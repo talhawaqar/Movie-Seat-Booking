@@ -1,7 +1,4 @@
 # Movie Seat Booking
-
-![image](./imgs/Screenshot.png)
-
 This web app is for reserving seat for a movie. It is only frontend and it uses browser local storage to store selected seats.
 
 ## Built With
