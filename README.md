@@ -1,4 +1,4 @@
-# Form Validation
+# Movie Seat Booking
 
 ![image](./imgs/Screenshot.png)
 
